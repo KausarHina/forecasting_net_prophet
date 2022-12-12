@@ -8,7 +8,7 @@ This project leverages python 3.7.13 with the following packages:
 
 * [pandas](https://pandas.pydata.org/) - For data analysis
 * [Prophet](https://pypi.org/project/fbprophet/) - For Automatic Forecasting Procedure
-* [PyStan](https://pystan.readthedocs.io/en/latest/) - For statistical modeling and high-performance statistical computation. T
+* [PyStan](https://pystan.readthedocs.io/en/latest/) - For statistical modeling and high-performance statistical computation. 
 
 
 
