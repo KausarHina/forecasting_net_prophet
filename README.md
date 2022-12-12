@@ -16,7 +16,7 @@ This project leverages python 3.7.13 with the following packages:
 
 ## Installation Guide
 
-Before running the application first install the pandas dependency in conda dev environment.
+Before running the application first install the following dependencies in conda dev environment.
 
 ```python
 
